@@ -1,0 +1,10 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Компільовані файли
+out/
+*.class
+
+# Локальні файли
+*.log
